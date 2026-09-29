@@ -65,6 +65,19 @@ Statistical Analysis
 Python for Data Analytics
 Business-oriented Data Interpretation
 
+
+## Topic's
+python
+data-analysis
+credit-risk
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jupyter-notebook
+exploratory-data-analysis
+
 ## 📁 Project Structure
 
 ```text
