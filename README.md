@@ -1,19 +1,46 @@
 # Credit Risk Analysis
 
-## Project Overview
+A Python-based credit risk analysis project focused on data cleaning, exploratory data analysis, visualization, and statistical analysis of credit-risk data.
 
-This project focuses on analyzing credit-risk data using Python. The analysis includes data cleaning, exploratory data analysis, data visualization, and statistical analysis to understand patterns and relationships within the dataset.
+## 📌 Project Overview
 
-## Objectives
+The objective of this project is to analyze credit-risk data, identify data-quality issues, explore important patterns, and perform statistical analysis to derive meaningful insights from the dataset.
+
+## 🎯 Objectives
 
 - Clean and preprocess credit-risk data
-- Identify missing and duplicate records
-- Perform exploratory data analysis
-- Visualize important patterns and relationships
-- Apply statistical analysis
-- Generate meaningful observations from the data
+- Identify missing values and duplicate records
+- Perform exploratory data analysis (EDA)
+- Analyze distributions and relationships between variables
+- Create meaningful data visualizations
+- Perform statistical analysis
+- Generate business-oriented insights from the analysis
 
-## Tools & Technologies
+## 🧹 Data Cleaning
+
+The project includes:
+
+- Missing-value identification
+- Treatment of invalid/missing values
+- Duplicate-record checking
+- Data preprocessing
+- Data-quality validation
+
+## 📊 Exploratory Data Analysis
+
+The analysis covers:
+
+- Univariate analysis
+- Bivariate analysis
+- Variable distributions
+- Relationship analysis
+- Visual exploration of important credit-risk variables
+
+## 📈 Statistical Analysis
+
+Statistical techniques are applied to investigate relationships and patterns within the credit-risk dataset.
+
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -23,42 +50,36 @@ This project focuses on analyzing credit-risk data using Python. The analysis in
 - SciPy
 - Jupyter Notebook
 
-## Analysis Performed
 
-### Data Cleaning
-- Missing-value identification and treatment
-- Duplicate-record checking
-- Data preprocessing
+###📂 Dataset
 
-### Exploratory Data Analysis
-- Descriptive analysis
-- Distribution analysis
-- Relationship analysis
-- Visual exploration of important variables
+The project uses the provided credit-risk case-study datasets:
 
-### Statistical Analysis
-- Statistical tests and analysis
-- Interpretation of relationships within the dataset
+case_study1.xlsx
+case_study2.xlsx
+🔍 Key Skills Demonstrated
+Data Cleaning & Preprocessing
+Exploratory Data Analysis
+Data Visualization
+Statistical Analysis
+Python for Data Analytics
+Business-oriented Data Interpretation
 
-## Dataset
+## 📁 Project Structure
 
-The project uses the provided credit-risk case-study datasets.
-
-## Project Structure
-
-``text
+```text
 Credit-Risk-Analysis/
 │
-├── Credit_Risk_Analysis.ipynb
 ├── README.md
+├── Credit_Risk_Analysis.ipynb
 │
 └── data/
     ├── case_study1.xlsx
-    └── case_study2.xlsx 
+    └── case_study2.xlsx
 
-##Project Purpose
+👨‍💻 Author
 
-The purpose of this project is to demonstrate practical skills in Python-based data analysis and credit-risk data exploration.
-
-Author
 Gourav Rawat
+
+
+
