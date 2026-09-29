@@ -64,7 +64,16 @@ Data Visualization
 Statistical Analysis
 Python for Data Analytics
 Business-oriented Data Interpretation
+#### 🔑 Key Insights
 
+- The final merged dataset contains **51,336 records**, with missing values handled during the data-cleaning process.
+- **69 numerical features** showed statistically significant differences across `Approved_Flag` groups in the ANOVA analysis (p < 0.05).
+- All **5 categorical features** tested using Chi-square showed statistically significant association with the approval groups.
+- **Credit Score** shows a clear difference across approval groups: P1 has an average score of **715.95**, while P4 has **645.63**.
+- **P4** has comparatively higher average delinquency (**2.52**) than P1 (**1.82**) and P2 (**1.26**).
+- **P2 represents 62.72%** of the dataset, making it the largest approval category.
+- Average monthly income does not follow a simple increasing/decreasing pattern across approval groups, so income alone does not explain the approval categories.
+- Outlier analysis identified extreme observations in some financial variables, particularly income.
 
 ## Topic's
 python
